@@ -1,3 +1,5 @@
 Hola! este es otro texto de prueba. 
 
 Hola! este es un nuevo cambio introducido para despues mergear a testing.
+
+Estos son los cambios introducidos por el S7
